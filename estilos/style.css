@@ -8,7 +8,6 @@ body
     background-color: rgb(243, 202, 98);
 }
 
-<<<<<<< Updated upstream
 img.lado{
     float: right;
 }
@@ -17,12 +16,6 @@ main
 {
     background-color: white;
     width: 550px;
-=======
-main
-{
-    background-color: white;
-    width: 500px;
->>>>>>> Stashed changes
     margin: auto;
     padding: 10px;
     box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.486);
